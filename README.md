@@ -1,4 +1,4 @@
-# Calculadora simples
+# Projeto Idade
 ># Neste repositório está presente uma calculadora que calcula a idade do usuário. Calculadora desenvolvida em **React Native ⚛️**.
 
 >link do [repositório](https://github.com/JoeyBeckWheeler/Calculadora-Idade "link para o repositório")
